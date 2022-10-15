@@ -3,6 +3,7 @@
 docker-compose up -d
 lance le container
 
+http://127.0.0.1:9000/   post d'écoute
 code : azertyazerty
 aller sur local avec la baleine
 stack: on voit les projets container
